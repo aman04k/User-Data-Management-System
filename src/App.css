@@ -1,0 +1,25 @@
+ .form{
+    width: 35%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    
+    background-color: aliceblue;
+   
+ }
+ 
+   
+ 
+
+ table{
+    margin:  0 auto;
+ }
+
+ h1{
+   text-align: center;
+ }
+
+
+ 
