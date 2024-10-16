@@ -2,6 +2,7 @@
 
 This project is a **User Data Management System** built with **React.js**. It allows users to fill in a form, upload profile images, and display the entered data in a table format with the uploaded image.
 
+ <img src="img.jpg" />
 ## 🛠️ Features
 - ✏️ **Add User Data** through a form.
 - 🖼️ **Upload Profile Pictures**.
